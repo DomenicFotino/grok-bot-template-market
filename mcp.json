@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bot-template-market": {
+      "type": "http",
+      "url": "https://grok-raqet.vercel.app/api/mcp"
+    }
+  }
+}

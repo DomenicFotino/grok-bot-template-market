@@ -1,0 +1,27 @@
+{
+  "name": "bot-template-market",
+  "version": "1.0.0",
+  "description": "Bot Template Market \u2014 buy vaulted Grok Bot templates and apply a one-time pack on the Bot you run.",
+  "author": {
+    "name": "Bot Template Market",
+    "email": "domenicfotino@gmail.com"
+  },
+  "homepage": "https://grok-raqet.vercel.app",
+  "repository": "https://github.com/DomenicFotino/grok-bot-template-market",
+  "license": "MIT",
+  "keywords": [
+    "bot template market",
+    "grok bot",
+    "bot templates",
+    "mcp"
+  ],
+  "displayName": "Bot Template Market",
+  "logo": "assets/logo.svg",
+  "category": "integrations",
+  "tags": [
+    "bot-template-market",
+    "grok-bot",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json"
+}

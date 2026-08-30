@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "bot-template-market": {
+      "type": "http",
+      "url": "https://grok-raqet.vercel.app/api/mcp",
+      "note": "Bot Template Market hosted MCP. Grok Bot opens a browser to sign in. Tools: catalog, licenses, apply_pack, whoami, shelf_status."
+    }
+  }
+}

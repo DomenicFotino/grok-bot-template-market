@@ -1,0 +1,21 @@
+{
+  "name": "bot-template-market",
+  "description": "Bot Template Market Grok Bot plugin. Hosted MCP at grok-raqet.vercel.app.",
+  "owner": {
+    "name": "Bot Template Market",
+    "email": "domenicfotino@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "bot-template-market",
+      "source": "./",
+      "description": "Buy vaulted Grok Bot templates. Apply a one-time pack on the Bot you run.",
+      "version": "1.0.0",
+      "homepage": "https://grok-raqet.vercel.app",
+      "license": "MIT",
+      "logo": "assets/logo.svg",
+      "keywords": ["bot template market", "grok bot", "mcp"],
+      "category": "integrations"
+    }
+  ]
+}
