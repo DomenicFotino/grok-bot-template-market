@@ -10,7 +10,7 @@
       "name": "bot-template-market",
       "source": "./",
       "description": "Buy vaulted Grok Bot templates. Apply a one-time pack on the Bot you run.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": {
         "name": "Bot Template Market",
         "email": "domenicfotino@gmail.com",
